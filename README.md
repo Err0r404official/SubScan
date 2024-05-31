@@ -1,4 +1,4 @@
-#SubScan
+#SubScan v1.0 (31/05/24)
 
 ### [+] Coded By <a href="https://github.com/Err0r404official">ERR0R_404</a>
 
